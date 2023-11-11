@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "user": "120",
+      "aadhaar_no": "344111111111",
+      "pan_no": "AAAAA1234A",
+      "type_of_employment": "self_employed",
+      "business_title": "sfdgsdfgsdfgsdfgsdfg",
+      "business_type": "MANUFACTURING",
+      "business_address": "anand tirth nagarAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "gst_registration_no": "18AABCU9603R1ZM",
+      "business_license_no": "U72200MH2009PLC123456",
+      "expected_average_annual_turnover": "8",
+      "years_in_current_business": "3",
+      "collateral": "25",
+      "status": "generated",
+      "application_timestamp": "2020-09-18",
+      "remark": "sdf",
+      "id": 3
+    }
+  ]
+}
